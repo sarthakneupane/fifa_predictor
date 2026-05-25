@@ -12,7 +12,7 @@ class DatabaseSeeder extends Seeder
             GroupSeeder::class,
             TeamSeeder::class,
             UserSeeder::class,
-            // GameSeeder::class,
+            GameSeeder::class,
         ]);
     }
 }

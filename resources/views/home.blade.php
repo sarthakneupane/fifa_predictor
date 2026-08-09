@@ -27,7 +27,7 @@
         <h1 class="font-display text-6xl sm:text-8xl lg:text-[9rem] text-white leading-none tracking-wide mb-4">
             PREDICT
             <br>
-            <span class="text-gradient">& WIN</span>
+            <span class="text-gradient">& WIN Arpit</span>
         </h1>
 
         <p class="text-gray-400 text-lg sm:text-xl max-w-2xl mx-auto mb-10 font-light leading-relaxed">
